@@ -1,0 +1,14 @@
+.logo {
+  height: 150px;
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: #50a6ff;
+}
+
+.featuredTvshow {
+  border-radius: 2px;
+  background-color: #50a6ff;
+}
