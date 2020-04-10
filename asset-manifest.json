@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-tv-app/static/css/main.b23b64ed.chunk.css",
+    "main.js": "/react-tv-app/static/js/main.993acd8c.chunk.js",
+    "main.js.map": "/react-tv-app/static/js/main.993acd8c.chunk.js.map",
+    "runtime-main.js": "/react-tv-app/static/js/runtime-main.856450d3.js",
+    "runtime-main.js.map": "/react-tv-app/static/js/runtime-main.856450d3.js.map",
+    "static/css/2.de424728.chunk.css": "/react-tv-app/static/css/2.de424728.chunk.css",
+    "static/js/2.13fe180b.chunk.js": "/react-tv-app/static/js/2.13fe180b.chunk.js",
+    "static/js/2.13fe180b.chunk.js.map": "/react-tv-app/static/js/2.13fe180b.chunk.js.map",
+    "index.html": "/react-tv-app/index.html",
+    "precache-manifest.c8e0988f933aeac97728774fb0d40719.js": "/react-tv-app/precache-manifest.c8e0988f933aeac97728774fb0d40719.js",
+    "service-worker.js": "/react-tv-app/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/react-tv-app/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b23b64ed.chunk.css.map": "/react-tv-app/static/css/main.b23b64ed.chunk.css.map",
+    "static/js/2.13fe180b.chunk.js.LICENSE.txt": "/react-tv-app/static/js/2.13fe180b.chunk.js.LICENSE.txt",
+    "static/media/Email.png": "/react-tv-app/static/media/Email.9a8b0596.png",
+    "static/media/logo.png": "/react-tv-app/static/media/logo.6b09800d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.856450d3.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.13fe180b.chunk.js",
+    "static/css/main.b23b64ed.chunk.css",
+    "static/js/main.993acd8c.chunk.js"
+  ]
+}
