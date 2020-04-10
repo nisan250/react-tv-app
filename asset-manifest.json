@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-tv-app/static/css/main.b23b64ed.chunk.css",
-    "main.js": "/react-tv-app/static/js/main.c4ab1325.chunk.js",
-    "main.js.map": "/react-tv-app/static/js/main.c4ab1325.chunk.js.map",
+    "main.js": "/react-tv-app/static/js/main.d217a6c9.chunk.js",
+    "main.js.map": "/react-tv-app/static/js/main.d217a6c9.chunk.js.map",
     "runtime-main.js": "/react-tv-app/static/js/runtime-main.856450d3.js",
     "runtime-main.js.map": "/react-tv-app/static/js/runtime-main.856450d3.js.map",
     "static/css/2.de424728.chunk.css": "/react-tv-app/static/css/2.de424728.chunk.css",
     "static/js/2.13fe180b.chunk.js": "/react-tv-app/static/js/2.13fe180b.chunk.js",
     "static/js/2.13fe180b.chunk.js.map": "/react-tv-app/static/js/2.13fe180b.chunk.js.map",
     "index.html": "/react-tv-app/index.html",
-    "precache-manifest.ac3034c2e6e7afea4757accd3ec87107.js": "/react-tv-app/precache-manifest.ac3034c2e6e7afea4757accd3ec87107.js",
+    "precache-manifest.ae76877c492470f34e83cd1347c6de91.js": "/react-tv-app/precache-manifest.ae76877c492470f34e83cd1347c6de91.js",
     "service-worker.js": "/react-tv-app/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/react-tv-app/static/css/2.de424728.chunk.css.map",
     "static/css/main.b23b64ed.chunk.css.map": "/react-tv-app/static/css/main.b23b64ed.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.13fe180b.chunk.js",
     "static/css/main.b23b64ed.chunk.css",
-    "static/js/main.c4ab1325.chunk.js"
+    "static/js/main.d217a6c9.chunk.js"
   ]
 }
