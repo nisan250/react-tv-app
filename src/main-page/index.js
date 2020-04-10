@@ -15,10 +15,9 @@ class App extends Component {
   }
 
   fetchTvshows = () => {
-    fetch('/tvshows.json')
+    fetch('/react-tv-app/tvshows.json')
     .then(rsp => rsp.json())
     .then(allTvshows => {
-      console.log(allTvshows);
       this.allTvshows = allTvshows;
       this.determineFeaturedTvshow();
       this.determineUniqeStatus();
