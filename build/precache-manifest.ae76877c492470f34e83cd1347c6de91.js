@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbcfd1a036b195e4918a331f7e997d47",
+    "revision": "0b1d376ae3a57b4429d31e29a9fab3b3",
     "url": "/react-tv-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tv-app/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "c855e8acf43817748280",
+    "revision": "6fae010f6bf169d83445",
     "url": "/react-tv-app/static/css/main.b23b64ed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tv-app/static/js/2.13fe180b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c855e8acf43817748280",
-    "url": "/react-tv-app/static/js/main.c4ab1325.chunk.js"
+    "revision": "6fae010f6bf169d83445",
+    "url": "/react-tv-app/static/js/main.d217a6c9.chunk.js"
   },
   {
     "revision": "b7bded017f9a650b81fb",
