@@ -1,3 +1,9 @@
+simple react app for showing tv shows... 
+link: <a href="https://nisan250.github.io/react-tv-app/" target="_blank">https://nisan250.github.io/react-tv-app/</a>
+
+
+<br><br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
